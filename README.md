@@ -69,6 +69,7 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
+![Screenshot from 2025-03-15 14-41-58](https://github.com/user-attachments/assets/7179cae6-a4e6-4e58-ac61-c31289a78352)
 
 
 
@@ -109,7 +110,8 @@ and issue appropriate commands
   
  ##Output
   
-  
+  ![Screenshot from 2025-03-15 14-43-07](https://github.com/user-attachments/assets/3ce21fb6-2786-4165-b80e-768cd496cd6d)
+
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
